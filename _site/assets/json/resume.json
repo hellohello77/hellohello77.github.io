@@ -1,0 +1,102 @@
+{
+  "basics": {
+    "name": "Tse-Sheng(Jason) Nan",
+    "email": "tnan4@illinois.edu",
+    "phone": "+1 (217) 991-0425",
+    "url": "https://hellohello77.github.io/",
+    "summary": "As a CS graduate student at the University of Illinois Urbana-Champaign, I am a dedicated machine learning practitioner. My primary focus lies in reinforcement learning and computer vision, demonstrated through my research paper, Action-Constrained Imitation Learning. My technical expertise is further highlighted in projects like 3D Reconstruction from Road Markers, where I inferred the speed of a self-driving car. Beyond technical skills, I bring strong leadership experience, enabling me to lead effectively while thriving as a collaborative team player in any work environment."
+  },
+  "publications": [
+    {
+      "name": "Action-Constrained Imitation Learning",
+      "publisher": "International Conference on Learning Representations (ICLR)",
+      "releaseDate": "2024-10-02",
+      "url": "https://openreview.net/forum?id=UlAkM88Vum"
+    }
+  ],
+  "awards": [
+    {
+      "awarder": "2017 World Mathematics Invitational (WMI) Finals",
+      "date": "2017-07-17",
+      "title": "Gold Medal",
+      "url": "https://www.wminv.org/"
+    }
+  ],
+  "work": [
+    {
+      "name": "Trend Micro",
+      "position": "Software R&D Intern-Data Analytics",
+      "startDate": "2023-07-03",
+      "endDate": "2023-08-31",
+      "summary": "Utilized various machine learning techniques for data analysis and employed effective storytelling strategies, driving a 63% revenue increase for a new product.",
+      "highlights": ["Unsupervised Learning", "SQL", "Google BigQuery"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Illinois Urbana-Champaign",
+      "location": "IL, U.S.",
+      "url": "https://illinois.edu/",
+      "area": "Computer Science",
+      "studyType": "M.S.",
+      "startDate": "2024-08-26",
+      "endDate": "2025-12-19",
+      "score": "10",
+      "courses": ["Machine Learning for Signal Processing", "Algorithms", "Numerical Analysis"]
+    },
+    {
+      "institution": "National Taiwan University",
+      "location": "Taipei, Taiwan",
+      "url": "https://www.ntu.edu.tw/english/",
+      "area": "Electrical Engineering",
+      "studyType": "B.S.",
+      "startDate": "2019-09-01",
+      "endDate": "2024-01-10",
+      "score": "10",
+      "courses": [
+                  "Machine Learning",
+                  "Deep Learning for Computer Vision",
+                  "Computer Vision: from recognition to geometry",
+                  "Artificial Intelligence and Intelligent Medicine",
+                  "Linear Algebra",
+                  "Data Structure",
+                  "Convex Optimization",
+                  "Introduction to the Internet of Things",
+                  "Computer Architecture",
+                  "Web Programming"]
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Machine Learning",
+      "date": "2021-08-20",
+      "issuer": "MLSS 2021",
+      "url": "assets/pdf/CV.pdf",
+      "icon": "fa-solid fa-clipboard-check"
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "People's Climate March",
+      "location": "Zurich, Switzerland",
+      "position": "Lead Organizer",
+      "url": "https://example.com",
+      "startDate": "2014-04-01",
+      "endDate": "2015-07-01",
+      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
+      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Mandarin",
+      "fluency": "Native speaker",
+      "icon": ""
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent",
+      "icon": ""
+    }
+  ]
+}
